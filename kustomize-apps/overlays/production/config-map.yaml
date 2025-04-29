@@ -4,4 +4,3 @@ metadata:
   name: my-configuration
 data:
   mysqlDB: "prod-mysql.acme.inc:3306"
- 
